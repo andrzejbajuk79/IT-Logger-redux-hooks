@@ -1,4 +1,5 @@
 **DEPLOY**
+*https://it-logger-redux-random.netlify.app*
 
 # ZRODLO
 > **TORRENT: "Udemy - React Front To Back 2019"**
