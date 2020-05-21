@@ -1,13 +1,12 @@
 **DEPLOY**
 
 # ZRODLO
-
-_file:///E:/bitcomet/react/Udemy%20-%20React%20Front%20To%20Back%202019/11.%20Project%203%20Start%20[ITLogger%20-%20Redux]%20-%20Components%20&%20UI/2.%20Code%20&%20Resources.html_
+> **TORRENT: "Udemy - React Front To Back 2019"**
 
 _https://materializecss.com_
 *https://github.com/typicode/json-server*
 *https://materializecss.com/icons.html*
-> **TORRENT: "Udemy - React Front To Back 2019"**
+
 
 # Zawartość
 
